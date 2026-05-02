@@ -1,5 +1,8 @@
-## Hi there 👋
+##
 
+Bringing my GitHub to life.
+Currently practicing with AWS tools for data engineering, strengthening my web development skills with JavaScript, and experimenting with some CI/CD pipelines.
+I’ll be sharing a few projects here, and I hope they can positively contribute to others in this community.
 <!--
 **JavieraQuattrucci/JavieraQuattrucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
