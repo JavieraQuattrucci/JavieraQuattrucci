@@ -1,13 +1,14 @@
+
 <p align ="center">
-    
- <img src="https://readme-typing-svg.herokuapp.com?color=FF2D95&height=200&center=true&vCenter=true&speed=1200&pause=10&size=50&lines=🫧Construyendo;🫧Compartiendo;🫧Programando;🫧Diseñando&center=true" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=1000&pause=2000&color=FF2D95&center=true&vCenter=true&lines=🫧_Construyendo_🫧;🫧_Compartiendo_🫧;🫧_Programando_🫧;🫧_Diseñando_🫧&" alt="Typing SVG"/>
+
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFqOTlpN3k4Z3kwaWdiNjNyN3hqOHlsMnQ2dnYzN3dzcWwzcjdlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3j1SN2uD5etgpWzAm0/giphy.gif" width="100"/>
 </p><br>
 <h3>☀️ Bringing my GitHub to life. ☀️</h3>
 
 🧩 Currently practicing with AWS tools for data engineering, strengthening my web development skills with JavaScript, and experimenting with some CI/CD pipelines.
-I’ll be sharing a few projects here, and I hope they can positively contribute to others in this community.
+I’ll be sharing a few projects here, and I hope they can positively contribute to others in this community.<br><br>
 
 ---
 
@@ -15,7 +16,7 @@ I’ll be sharing a few projects here, and I hope they can positively contribute
 
 🧩 Actualmente estoy practicando con herramientas AWS para la ingeniería de datos, reforzando conceptos de desarrollo web con JavasScript y experimentando con algunas pipelines de CI/CD. Compartiré algunos proyectos por aquí y espero puedan contribuir positivamente a más de alguien en esta red.
 <br><br><br>
-<h3 align ="center">Some Tools: </h3><br>
+<h3 align ="center" color="green">Some Tools: </h3><br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,cs,javascript,css,django,flask,mysql,aws" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" />
