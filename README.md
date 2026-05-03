@@ -1,6 +1,6 @@
 
 <p align ="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=1000&pause=2000&color=FF2D95&center=true&vCenter=true&lines=_Construyendo_;_Compartiendo_;_Programando_;_Diseñando_&" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=1000&pause=2000&color=FF2D95&center=true&vCenter=true&lines=_Construyendo_;_Compartiendo_;_Programando_;_Diseñando_;_Simplificando_;_Aprendiendo_&" alt="Typing SVG"/>
 
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFqOTlpN3k4Z3kwaWdiNjNyN3hqOHlsMnQ2dnYzN3dzcWwzcjdlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3j1SN2uD5etgpWzAm0/giphy.gif" width="100"/>
