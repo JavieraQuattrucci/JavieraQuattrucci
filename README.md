@@ -14,7 +14,7 @@ I’ll be sharing a few projects here, and I hope they can positively contribute
 
 <h3>☀️ Dándole vida a mi Github.☀️</h3>
 
-🧩 Actualmente estoy practicando con herramientas AWS para la ingeniería de datos, reforzando conceptos de desarrollo web con JavasScript y experimentando con algunas pipelines de CI/CD. Compartiré algunos proyectos por aquí y espero puedan contribuir positivamente a más de alguien en esta red.
+🧩 Actualmente estoy practicando con herramientas AWS para la ingeniería de datos, reforzando conceptos de desarrollo web con JavasScript y experimentando con algunas pipelines de CI/CD. Compartiré algunos proyectos por aquí y espero puedan contribuir positivamente a esta red.
 <br><br><br>
 <h3 align ="center" color="green">Some Tools: </h3><br>
 <p align="center">
